@@ -1,0 +1,12 @@
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.2.0
+defusedxml==0.7.1
+idna==3.4
+packaging==23.1
+psycopg2-binary==2.9.7
+pycparser==2.21
+requests==2.31.0
+tableauhyperapi==0.0.17360
+tableauserverclient==0.25
+urllib3==1.26.16
